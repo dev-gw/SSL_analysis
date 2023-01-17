@@ -5,5 +5,5 @@
 
   * Folium 시각화
   
-  * Xgboost -> SHAP value (Feature Improtance)
+  * Xgboost -> SHAP value (Feature Importance)
   * Kmeans Clustering
